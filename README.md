@@ -33,9 +33,9 @@ Data Processing: Pandas, PySpark
 
 ## Insights
 
- <p align="center"><img src="co2-emissions/Visuals_BubblePlot/1.png" width="100%"></p>
-  <p align="center"><img src="co2-emissions/Visuals_BubblePlot/2.png" width="100%"></p>
-    <p align="center"><img src="co2-emissions/Visuals_BubblePlot/3.png" width="100%"></p>
+<p align="center"><img src="co2-emissions/Visuals_BubblePlot/1.png" width="80%"></p>
+<p align="center"><img src="co2-emissions/Visuals_BubblePlot/2.png" width="80%"></p>
+<p align="center"><img src="co2-emissions/Visuals_BubblePlot/3.png" width="80%"></p>
 
-<p align="center"><img src="co2-emissions/Visuals_BubblePlot/US States Rank by Total CO2 emission 2.png" width="100%"></p>
-<p align="center"><img src="co2-emissions/Visuals_BubblePlot/US States Rank by CO2 emission from coal 2.png" width="100%"></p
+<p align="center"><img src="co2-emissions/Visuals_BubblePlot/US States Rank by Total CO2 emission 2.png" width="80%"></p>
+<p align="center"><img src="co2-emissions/Visuals_BubblePlot/US States Rank by CO2 emission from coal 2.png" width="80%"></p
